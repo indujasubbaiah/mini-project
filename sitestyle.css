@@ -1,0 +1,32 @@
+
+header
+{ 
+	height:300px;
+	display:grid;
+	grid-template-rows:33% 33% 33%;
+    
+	text-align:center;
+	grid-rows-gap:0.3%;
+	background-color:gray;
+	
+	
+}
+main
+{
+	display:grid;
+	grid-template-columns:24% 74%;
+	text-align:center;
+	height:600px;
+	background-color:gray;
+	grid-column-gap:2%;
+	
+	
+	
+}
+footer
+{
+	text-align:center;
+	height:100px;
+   background-color:gray;
+	
+}

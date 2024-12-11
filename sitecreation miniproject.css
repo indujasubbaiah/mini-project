@@ -1,0 +1,38 @@
+
+body
+
+{
+	background-color:wheat;
+	}
+header h1
+{ 
+	
+	color:white;background-color:purple;width:1300px;
+text-align:center;	
+}
+header a:hover{
+background-color:red;
+color:white;
+}
+main div{
+	display:grid;grid-template-rows:20% 60% 20%;
+	
+}
+main h1
+{ 
+	
+	color:white;background-color:purple;width:1300px;
+
+}
+main h5
+{
+	display:grid;grid-template-columns:33% 33% 33%;
+grid-gap:0.3%;
+}
+footer h1,h4
+{ 
+	
+	color:white;background-color:purple;width:1300px; 
+
+}
+
